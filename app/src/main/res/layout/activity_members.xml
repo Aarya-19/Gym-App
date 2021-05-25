@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/btnab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Aarya Aamish Bhatt" />
+
+    <Button
+        android:id="@+id/btnag"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ashutosh Agarwal" />
+
+    <Button
+        android:id="@+id/btnsak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shrey Alpesh Khakhi" />
+
+    <Button
+        android:id="@+id/btnaddm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+ Add Members" />
+</LinearLayout>

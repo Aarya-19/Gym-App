@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="members">Members</string>
+    <string name="staff">Staff</string>
+    
+    <string-array name="Mnames">
+        <item name="name">QWE</item>
+        <item name="name">RTY</item>
+        <item name="name">UIO</item>
+        <item name="name">PAS</item>
+    </string-array>
+</resources>

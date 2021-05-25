@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+
+    tools:context="members.MainActivity">
+
+    <EditText
+        android:id="@+id/textView2"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="211dp"
+        android:ems="10"
+        android:hint="Enter your age" />
+
+    <EditText
+        android:id="@+id/textView4"
+        android:layout_width="163dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+
+        android:layout_centerInParent="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="340dp"
+        android:ems="10"
+        android:hint="Enter your weight" />
+
+    <EditText
+        android:id="@+id/textView5"
+        android:layout_width="159dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="207dp"
+        android:layout_marginTop="340dp"
+        android:layout_marginEnd="25dp"
+        android:ems="10"
+        android:hint="Enter your hieght"
+        android:translationX="10dp" />
+
+    <TextView
+        android:id="@+id/apptitle"
+        android:layout_width="402dp"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="27dp"
+        android:text="Welcome to the Gym-planner app!"
+        android:textAlignment='center'
+        android:textColor="#09CABA"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/mybutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="128dp"
+        android:text="BOOK THE APPOINTMENT" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="154dp"
+        android:ems="10"
+        android:hint="Enter your name" />
+
+    <Button
+        android:id="@+id/button211"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="31dp"
+        android:text="Send an alert that you wont be going to the gym" />
+
+    <Button
+        android:id="@+id/recyclerview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="84dp"
+        android:text="Tips" />
+
+    <TimePicker
+        android:id="@+id/tp_timepicker2"
+        android:layout_width="317dp"
+        android:layout_height="136dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-16dp"
+        android:layout_marginLeft="-30dp"
+        android:layout_marginRight="-30dp"
+        android:layout_marginBottom="164dp"
+        android:scaleX="0.7"
+        android:scaleY="0.7"
+        android:timePickerMode="spinner" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="468dp"
+        android:layout_marginEnd="40dp"
+        android:text="set" />
+
+    <TextView
+        android:id="@+id/apptitle2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="403dp"
+        android:text="Set an appointment for the gym at:"
+        android:textAlignment='center'
+        android:textColor="#E91E63"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/textView6"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="278dp"
+        android:ems="10"
+        android:hint="Enter your city name" />
+
+    <EditText
+        android:id="@+id/textView7"
+        android:layout_width="173dp"
+        android:layout_height="78dp"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="210dp"
+        android:layout_marginTop="260dp"
+        android:layout_marginEnd="19dp"
+        android:ems="10"
+        android:hint="Enter your state name" />
+</RelativeLayout>
