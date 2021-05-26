@@ -11,6 +11,6 @@ the time being, the gym admin can save the details that a person fills by taking
 
 Made by:
 
-Aarya Aamish Bhatt
-Ashutosh Agarwal
+Aarya Aamish Bhatt ||
+Ashutosh Agarwal ||
 Shrey Alpesh Khakhi
