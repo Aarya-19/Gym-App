@@ -7,3 +7,10 @@ the app to your gym instructor. You can also book an appointment easily on the a
 The app also provides many good tips to a healthy lifestyle which can also be shared
 to family and friends using any social media platform. Updates will be coming soon. For
 the time being, the gym admin can save the details that a person fills by taking a screenshot.
+
+
+Made by:
+
+Aarya Aamish Bhatt
+Ashutosh Agarwal
+Shrey Alpesh Khakhi
