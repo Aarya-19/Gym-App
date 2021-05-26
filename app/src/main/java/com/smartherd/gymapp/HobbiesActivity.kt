@@ -1,9 +1,8 @@
-package com.smartherd.gymapp.members
+package com.smartherd.gymapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.smartherd.gymapp.R
 import kotlinx.android.synthetic.main.activity_hobbies.*
 
 class HobbiesActivity : AppCompatActivity(){

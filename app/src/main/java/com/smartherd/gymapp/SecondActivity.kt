@@ -1,4 +1,4 @@
-package com.smartherd.gymapp.members
+package com.smartherd.gymapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

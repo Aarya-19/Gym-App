@@ -73,7 +73,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="-3dp"
         android:layout_marginTop="305dp"
-        android:text="City: Mumbai"
+        android:text="City(origin): Mumbai"
         android:textAlignment='center'
         android:textColor="#9C27B0"
         android:textSize="30sp"
@@ -88,7 +88,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="5dp"
         android:layout_marginTop="375dp"
-        android:text="State: Maharastra"
+        android:text="State(origin): Maharastra"
         android:textAlignment='center'
         android:textColor="#673AB7"
         android:textSize="30sp"

@@ -22,13 +22,12 @@
         <activity android:name=".members.ABM"> </activity>
         <activity android:name=".members.AGM"> </activity>
         <activity android:name=".members.SAKM"> </activity>
-        <activity android:name=".members.MainActivity"> </activity>
+        <activity android:name=".MainActivity"> </activity>
         <activity android:name=".staff.ABS"> </activity>
-        <activity android:name=".staff.ADDS"> </activity>
         <activity android:name=".staff.AGS"> </activity>
         <activity android:name=".staff.SAKS"> </activity>
-        <activity android:name=".members.HobbiesActivity"> </activity>
-        <activity android:name=".members.SecondActivity"> </activity>
+        <activity android:name=".HobbiesActivity"> </activity>
+        <activity android:name=".SecondActivity"> </activity>
     </application>
 
 </manifest>

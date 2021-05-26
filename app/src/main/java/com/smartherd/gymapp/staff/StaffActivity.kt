@@ -3,7 +3,9 @@ package com.smartherd.gymapp.staff
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.smartherd.gymapp.ADDS
 import com.smartherd.gymapp.R
+import com.smartherd.gymapp.MainActivity
 import kotlinx.android.synthetic.main.activity_staff.*
 
 class StaffActivity : AppCompatActivity(){
@@ -24,7 +26,7 @@ class StaffActivity : AppCompatActivity(){
             startActivity(intent)
         }
         btnadds.setOnClickListener {
-            val intetnt = Intent(this, ADDS::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
     }

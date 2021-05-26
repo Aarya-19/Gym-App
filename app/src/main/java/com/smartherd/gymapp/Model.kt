@@ -1,4 +1,4 @@
-package com.smartherd.gymapp.members
+package com.smartherd.gymapp
 
 data class Hobby(var title: String)
 

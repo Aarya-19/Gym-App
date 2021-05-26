@@ -13,9 +13,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="0dp"
         android:layout_marginTop="27dp"
-        android:text="Name: Ashutosh Agarwal"
+        android:text="Name(Staff): AG"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -28,9 +28,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="6dp"
         android:layout_marginTop="165dp"
-        android:text="Weight: 87Kg"
+        android:text="Weight: 80Kg"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -43,9 +43,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="3dp"
         android:layout_marginTop="240dp"
-        android:text="Height: 187cms"
+        android:text="Height: 190cms"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -60,7 +60,7 @@
         android:layout_marginTop="103dp"
         android:text="Age: 19"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -73,9 +73,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="-3dp"
         android:layout_marginTop="305dp"
-        android:text="City(origin): Mumbai"
+        android:text="City(origin): Dabolim"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 
@@ -88,9 +88,9 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="5dp"
         android:layout_marginTop="375dp"
-        android:text="State(origin): Maharastra"
+        android:text="State(origin): Goa"
         android:textAlignment='center'
-        android:textColor="#F44336"
+        android:textColor="#E91E63"
         android:textSize="30sp"
         android:textStyle="bold" />
 

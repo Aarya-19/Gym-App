@@ -3,7 +3,7 @@ package com.smartherd.gymapp.members
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.smartherd.gymapp.members.MainActivity
+import com.smartherd.gymapp.MainActivity
 import com.smartherd.gymapp.*
 import kotlinx.android.synthetic.main.activity_members.*
 
